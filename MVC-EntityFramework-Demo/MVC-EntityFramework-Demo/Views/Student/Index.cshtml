@@ -1,0 +1,12 @@
+﻿@model List<MVC_EntityFramework_Demo.Data.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@foreach (var item in Model)
+{
+    <h1>@item.Name</h1>
+}
+

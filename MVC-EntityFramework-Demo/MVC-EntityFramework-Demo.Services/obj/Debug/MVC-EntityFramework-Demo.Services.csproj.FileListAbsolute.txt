@@ -1,0 +1,15 @@
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\bin\Debug\MVC-EntityFramework-Demo.Services.dll.config
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\bin\Debug\MVC-EntityFramework-Demo.Services.dll
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\bin\Debug\MVC-EntityFramework-Demo.Services.pdb
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\bin\Debug\EntityFramework.dll
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\bin\Debug\MVC-EntityFramework-Demo.Data.dll
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\bin\Debug\MVC-EntityFramework-Demo.Data.pdb
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\bin\Debug\MVC-EntityFramework-Demo.Data.dll.config
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\bin\Debug\EntityFramework.xml
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\obj\Debug\MVC-EntityFramework-Demo.Services.csproj.AssemblyReference.cache
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\obj\Debug\MVC-EntityFramework-Demo.Services.csproj.CoreCompileInputs.cache
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\obj\Debug\MVC-EntityFramework-Demo.Services.csproj.CopyComplete
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\obj\Debug\MVC-EntityFramework-Demo.Services.dll
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Services\obj\Debug\MVC-EntityFramework-Demo.Services.pdb

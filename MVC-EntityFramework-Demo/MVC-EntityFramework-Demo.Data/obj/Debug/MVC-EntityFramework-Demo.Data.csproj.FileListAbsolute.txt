@@ -1,0 +1,12 @@
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\bin\Debug\MVC-EntityFramework-Demo.Data.dll.config
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\bin\Debug\MVC-EntityFramework-Demo.Data.dll
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\bin\Debug\MVC-EntityFramework-Demo.Data.pdb
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\bin\Debug\EntityFramework.dll
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\bin\Debug\EntityFramework.xml
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\obj\Debug\MVC-EntityFramework-Demo.Data.csproj.AssemblyReference.cache
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\obj\Debug\MVC-EntityFramework-Demo.Data.csproj.CoreCompileInputs.cache
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\obj\Debug\MVC-EntityFramework-Demo.Data.csproj.CopyComplete
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\obj\Debug\MVC-EntityFramework-Demo.Data.dll
+C:\Users\bisht\Documents\Projects\Research\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo\MVC-EntityFramework-Demo.Data\obj\Debug\MVC-EntityFramework-Demo.Data.pdb
